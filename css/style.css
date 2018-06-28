@@ -77,3 +77,8 @@ article {
 a {
   text-decoration: none;
 }
+
+a:hover {
+  opacity: 0.7;
+  color: #2b2b2b;
+}
